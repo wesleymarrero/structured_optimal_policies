@@ -10,8 +10,8 @@ This directory includes the input files for the analyses conducted in the paper.
 4. chddeathdata.csv - this file contains the likelihood of death due to a coronary heart disease (CHD) event for adults in the USA with ages 40 to 60
 5. alldeathdata.csv - this file contains the likelihood of death not related to atherosclerotic cardiovascular disease for adults in the USA with ages 40 to 60
 6. Continuous NHANES - this sub-directory contains the following files:
-  - Continuous_NHANES_Data_Extraction_and_Filtering.R - this R script contains our code to obtain our final patient dataset from the files publicly-available at: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx
-  - Continuous NHANES Forecasted Dataset.csv - this file is the end result of the Continuous_NHANES_Data_Extraction_and_Filtering.R script, which was used as the patient dataset in our analyses
+    - Continuous_NHANES_Data_Extraction_and_Filtering.R - this R script contains our code to obtain our final patient dataset from the files publicly-available at: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx
+    - Continuous NHANES Forecasted Dataset.csv - this file is the end result of the Continuous_NHANES_Data_Extraction_and_Filtering.R script, which was used as the patient dataset in our analyses
   
 ## B. Analyses
 This directory includes the scripts used to conduct the analyses in the paper. The directory constains the following files:
